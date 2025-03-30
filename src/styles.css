@@ -12,3 +12,13 @@ header {
   color: white;
   padding: 1rem;
 }
+
+.filter-panel {
+  padding: 1rem;
+  background-color: #333;
+  color: white;
+}
+
+.filter-panel label {
+  margin-right: 0.5rem;
+}
